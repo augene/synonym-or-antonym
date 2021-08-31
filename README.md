@@ -6,9 +6,10 @@ This is a game that expands one's knowledge of vocabulary through having one gue
 
 You need Python to play this game.
 ```console
-cd 'DOMAIN WHERE THE GAME WAS DOWNLOADED'
+cd 'FILE LOCATION WHERE THE GAME WAS DOWNLOADED'
 python game.py
 ```
+![Example](example.png)
 
 ## Changelog
 
